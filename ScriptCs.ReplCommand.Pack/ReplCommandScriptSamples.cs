@@ -56,48 +56,5 @@ namespace ScriptCs.ReplCommand.Pack
         {
             return value.Split(new[] { "[" }, StringSplitOptions.None);
         }
-
-        public virtual string GetClearScript()
-        {
-            var sb = new StringBuilder();
-            sb.AppendFormat("System.Console.Clear();");
-            return sb.ToString();
-        }
-
-        public virtual string GetPiScript()
-        {
-            var sb = new StringBuilder();
-            sb.AppendFormat("var pi = {0};", Math.PI);
-            sb.AppendFormat("System.Console.WriteLine(pi);");
-            return sb.ToString();
-        }
-
-        public virtual string GetTouchScript()
-        {
-            var sb = new StringBuilder();
-            sb.AppendFormat("using (System.IO.TextWriter textWriter = new System.IO.StreamWriter(arg1))");
-            sb.Append("{");
-            sb.AppendFormat(" textWriter.WriteLine(arg2); ");
-            sb.Append("}");
-            return sb.ToString();
-        }
-
-        public virtual string GetTimeScript()
-        {
-            var sb = new StringBuilder();
-            sb.AppendFormat("System.Console.WriteLine(System.DateTime.Now);");
-            return sb.ToString();
-        }
-
-        public virtual string GetFilesScript()
-        {
-            var sb = new StringBuilder();
-            sb.AppendFormat("var files = System.IO.Directory.GetFiles(arg1); ");
-            sb.AppendFormat("foreach (var file in files) ");
-            sb.Append("{ ");
-            sb.AppendFormat(" System.Console.WriteLine(file);");
-            sb.Append("} ");
-            return sb.ToString();
-        }
     }
 }
