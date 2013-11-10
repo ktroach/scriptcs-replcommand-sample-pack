@@ -1,0 +1,6 @@
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\bin\Debug\ScriptCs.ScriptPackBoilerplate.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\bin\Debug\ScriptCs.ScriptPackBoilerplate.pdb
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\bin\Debug\ScriptCs.Contracts.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\obj\Debug\ScriptCs.ScriptPackBoilerplate.csprojResolveAssemblyReference.cache
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\obj\Debug\ScriptCs.ScriptPackBoilerplate.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\obj\Debug\ScriptCs.ScriptPackBoilerplate.pdb

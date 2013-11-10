@@ -1,0 +1,12 @@
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\bin\Debug\ScriptCs.Contracts.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\bin\Debug\ScriptCs.ReplCommandPack.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\bin\Debug\ScriptCs.ReplCommandPack.pdb
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\obj\Debug\ScriptCs.ReplCommandPack.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\obj\Debug\ScriptCs.ReplCommandPack.pdb
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ScriptPackBoilerplate-master\src\ScriptCs.ScriptPackBoilerplate\obj\Debug\ScriptCs.ReplCommandPack.csprojResolveAssemblyReference.cache
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ReplCommandPack\src\ScriptCs.ReplCommandPack\bin\Debug\ScriptCs.ReplCommandPack.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ReplCommandPack\src\ScriptCs.ReplCommandPack\bin\Debug\ScriptCs.ReplCommandPack.pdb
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ReplCommandPack\src\ScriptCs.ReplCommandPack\bin\Debug\ScriptCs.Contracts.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ReplCommandPack\src\ScriptCs.ReplCommandPack\obj\Debug\ScriptCs.ReplCommandPack.csprojResolveAssemblyReference.cache
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ReplCommandPack\src\ScriptCs.ReplCommandPack\obj\Debug\ScriptCs.ReplCommandPack.dll
+C:\development\scriptcs-dev-20130606\script-pack\ScriptCs.ReplCommandPack\src\ScriptCs.ReplCommandPack\obj\Debug\ScriptCs.ReplCommandPack.pdb

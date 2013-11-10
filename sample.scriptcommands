@@ -1,0 +1,24 @@
+[cls]
+System.Console.Clear();
+
+[pi]
+var pi = Math.PI;
+System.Console.WriteLine(pi);
+
+[touch]
+using (System.IO.TextWriter textWriter = new System.IO.StreamWriter(arg1))
+{
+	textWriter.WriteLine(arg2);
+}
+
+[time]
+System.Console.WriteLine(System.DateTime.Now);
+
+[ls]
+var files = System.IO.Directory.GetFiles(arg1); 
+foreach (var file in files) 
+{ 
+	System.Console.WriteLine(file);
+} 
+
+

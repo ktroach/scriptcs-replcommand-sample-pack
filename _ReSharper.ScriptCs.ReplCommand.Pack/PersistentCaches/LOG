@@ -1,0 +1,13 @@
+2013/11/09-23:25:31.301 b58 Recovering log #12
+2013/11/09-23:25:31.326 b58 Level-0 table #14: started
+2013/11/09-23:25:31.407 b58 Level-0 table #14: 5272 bytes OK
+2013/11/09-23:25:31.493 b58 Delete type=0 #12
+2013/11/09-23:25:31.493 b58 Delete type=3 #10
+2013/11/09-23:25:31.494 1bdc Compacting 4@0 + 0@1 files
+2013/11/09-23:25:31.598 1bdc Generated table #16: 49 keys, 5964 bytes
+2013/11/09-23:25:31.598 1bdc Compacted 4@0 + 0@1 files => 5964 bytes
+2013/11/09-23:25:31.626 1bdc Delete type=2 #5
+2013/11/09-23:25:31.626 1bdc Delete type=2 #8
+2013/11/09-23:25:31.626 1bdc Delete type=2 #11
+2013/11/09-23:25:31.627 1bdc Delete type=2 #14
+2013/11/09-23:25:31.627 1bdc compacted to: files[ 0 1 0 0 0 0 0 ]

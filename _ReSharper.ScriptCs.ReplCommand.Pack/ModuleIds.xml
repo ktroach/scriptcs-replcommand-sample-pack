@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="97F549B0-B8AE-4908-850E-F36568124B95" ModuleId="ScriptCs.ReplCommand.Pack" />
+  <Module PersistentId="BEA3DC6B-A7EA-4B29-9CEA-E3F5121C4600" ModuleId="ScriptCs.ReplCommand.Pack.Test" />
+</Modules>

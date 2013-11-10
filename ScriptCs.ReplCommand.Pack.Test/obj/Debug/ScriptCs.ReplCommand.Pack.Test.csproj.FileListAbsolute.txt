@@ -1,0 +1,13 @@
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\ScriptCs.ReplCommand.Pack.Test.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\ScriptCs.ReplCommand.Pack.Test.pdb
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\ScriptCs.Contracts.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\ScriptCs.ReplCommand.Pack.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\Should.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\xunit.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\xunit.extensions.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\ScriptCs.ReplCommand.Pack.pdb
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\xunit.xml
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\bin\Debug\xunit.extensions.xml
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\obj\Debug\ScriptCs.ReplCommand.Pack.Test.csprojResolveAssemblyReference.cache
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\obj\Debug\ScriptCs.ReplCommand.Pack.Test.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack.Test\obj\Debug\ScriptCs.ReplCommand.Pack.Test.pdb

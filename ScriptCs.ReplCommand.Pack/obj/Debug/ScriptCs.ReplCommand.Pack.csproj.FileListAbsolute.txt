@@ -1,0 +1,12 @@
+C:\development\scriptcs-dev\script-packs\ScriptCs.ReplCommand.Pack\src\ScriptCs.ReplCommand.Pack\bin\Debug\ScriptCs.Contracts.dll
+C:\development\scriptcs-dev\script-packs\ScriptCs.ReplCommand.Pack\src\ScriptCs.ReplCommand.Pack\obj\Debug\ScriptCs.ReplCommand.Pack.csprojResolveAssemblyReference.cache
+C:\development\scriptcs-dev\script-packs\ScriptCs.ReplCommand.Pack\src\ScriptCs.ReplCommand.Pack\bin\Debug\ScriptCs.ReplCommand.Pack.dll
+C:\development\scriptcs-dev\script-packs\ScriptCs.ReplCommand.Pack\src\ScriptCs.ReplCommand.Pack\bin\Debug\ScriptCs.ReplCommand.Pack.pdb
+C:\development\scriptcs-dev\script-packs\ScriptCs.ReplCommand.Pack\src\ScriptCs.ReplCommand.Pack\obj\Debug\ScriptCs.ReplCommand.Pack.dll
+C:\development\scriptcs-dev\script-packs\ScriptCs.ReplCommand.Pack\src\ScriptCs.ReplCommand.Pack\obj\Debug\ScriptCs.ReplCommand.Pack.pdb
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack\bin\Debug\ScriptCs.ReplCommand.Pack.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack\bin\Debug\ScriptCs.ReplCommand.Pack.pdb
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack\bin\Debug\ScriptCs.Contracts.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack\obj\Debug\ScriptCs.ReplCommand.Pack.dll
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack\obj\Debug\ScriptCs.ReplCommand.Pack.pdb
+C:\development\scriptcs\script-packs\ScriptCs.ReplCommand.Pack\obj\Debug\ScriptCs.ReplCommand.Pack.csprojResolveAssemblyReference.cache
