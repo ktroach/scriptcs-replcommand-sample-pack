@@ -44,7 +44,6 @@ namespace ScriptCs.ReplCommand.Pack
 
             foreach (var command in commandScripts.Where(command => !string.IsNullOrWhiteSpace(command)))
             {
-                Console.WriteLine(command);
                 var commandNameLength = command.IndexOf("]", StringComparison.Ordinal);
                 var commandName = command.Substring(0, commandNameLength);
                 var commandScript = command.Substring(commandNameLength + 1);

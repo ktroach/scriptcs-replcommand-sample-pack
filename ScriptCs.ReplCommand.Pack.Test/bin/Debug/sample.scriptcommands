@@ -2,7 +2,7 @@
 System.Console.Clear();
 
 [pi]
-var pi = Math.PI;
+var pi = System.Math.PI;
 System.Console.WriteLine(pi);
 
 [touch]
